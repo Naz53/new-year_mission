@@ -1,0 +1,268 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-primary {
+    color: #fd6e0a;
+}
+
+.btn-primary {
+    margin-left: 865px;
+    margin-right: 241px;
+    color: #ffffff;
+    border: 0;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    padding: 21px 25px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    background: #fd6e0a;
+}
+
+.header {
+    background-image: url('../images/banner/banner2.png');
+    background-repeat: no-repeat;
+    background-position: absolute;
+    background-attachment: 11px 1600px 1611px 809px;
+}
+
+/* banner styles */
+.banner {
+    display: flex;
+    align-items: center;
+    margin-left: 0 200px;
+}
+
+.banner-title {
+    margin-top: 205px;
+    margin-left: 865px;
+    margin-right: 241px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: left;
+    color: #151414;
+}
+
+.banner-description {
+    margin-top: 24px;
+    margin-left: 865px;
+    margin-right: 241px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+    line-height: 26px;
+    color: #444343;
+    font-size: 16px;
+    margin-bottom: 32px;
+}
+
+li {
+    list-style-type: 2px solid;
+    margin-left: 250px;
+
+}
+
+.img {
+    margin-top: 119px;
+    margin-left: 206px;
+    background: rgba(241, 91, 34, 0.2);
+}
+
+.my-failures-title {
+
+    margin-left: 250px;
+    margin-right: 450px;
+    margin-top: 358px;
+    margin-bottom: 24px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    color: #151414;
+}
+
+.failures-description {
+    margin-left: 250px;
+    margin-right: 322px;
+    margin-bottom: 16px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+
+.my-failures {
+    display: flex;
+    align-items: center;
+    margin-left: 0 200px;
+}
+
+.my-failures-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.failures-description {
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 49px;
+    text-align: center;
+}
+
+.plans {
+    margin-top: 130px;
+}
+
+.skill {
+    background: #ffffff;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.skills-container {
+    display: flex;
+    gap: 86px;
+    text-align: center;
+}
+
+.skill-title {
+    margin-top: 24px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    text-align: center;
+}
+
+.skill-description {
+    margin-bottom: 16px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+    text-align: center;
+}
+
+.positive {
+    margin-top: 124px;
+    margin-right: 224px;
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+    background-image: url('../images/gradient2.png'), url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-position: bottom right left;
+    border-radius: 8px;
+}
+
+.positive-description {
+    margin-left: 60px;
+    margin-right: 294px;
+    margin-top: 124px;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: #FFFFFF;
+    border-radius: 8px;
+}
+
+.btn-secondary {
+    margin-left: 60px;
+    margin-right: 294px;
+    margin-top: 20px;
+    width: 160px;
+    height: 64px;
+    padding: 21px 25px;
+    border-radius: 5px;
+    font-weight: 600;
+    background: #ffffff;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #F15B22;
+}
+
+.contract.contract-title.subscribe-title {
+    text-align: left;
+}
+
+.contract {
+    padding: 130px 230px;
+    margin-top: 130px;
+    display: flex;
+    gap: 100px;
+    background: #151414;
+}
+
+.contract-title {
+
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #FFFFFF;
+}
+
+.contract-description {
+
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-family: 'Work Sans';
+    font-style: normal;
+    line-height: 26px;
+}
+
+.phone {
+    color: #FFFFFF;
+    margin-top: 24px;
+    margin-bottom: 32px;
+    line-height: 26px;
+    font-family: 'Work Sans';
+    font-style: normal;
+}
+
+.email {
+
+    color: #FFFFFF;
+    margin-top: 24px;
+    line-height: 26px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    
+}
+
+.subscribe-title {
+    margin-top: 0px;
+    margin-left: 60px;
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-bottom: 31px;
+}
+
+input {
+    color: #FFFFFF;
+    background-color: #151414;
+    width: 100%;
+    height: 64;
+    margin-left: 60px;
+    padding: 18px 30px;
+}
